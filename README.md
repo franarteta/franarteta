@@ -4,7 +4,7 @@
   <h3>Backend Developer | Java & Spring Boot | Home Lab Enthusiast</h3>
 
   <p>
-    <a href="https://linkedin.com/in/TU_USUARIO" target="_blank">
+    <a href="[https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/franco-mart%C3%ADn-arteta-42b409326/)" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:franarteta23@gmail.com">
