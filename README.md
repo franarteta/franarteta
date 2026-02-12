@@ -53,6 +53,5 @@
 | :--- | :--- | :--- |
 | **[VoIP Monitor & Alerter](https://github.com/franarteta/sistema-alertas-voip)** | Sistema de monitoreo de llamadas IP con alertas de escritorio y registro SQL. | `Python` `Socket` `SQLite` |
 | **[Gestión Vehicular](https://github.com/franarteta/backend-microservices-transport)** | Backend de microservicios para gestión de flota y reservas. | `Java` `Spring Boot` `Microservicios` |
-| **[Sistema de Gestión para Red Sísmica](https://github.com/franarteta/red-sismica)** | Uso de patrones de diseño (Strategy, State) para reglas de negocio
-complejas. | `Java` ` Interfaz Swing/AWT` `persistencia de datos vía JDBC/SQL` |
+| **[Sistema de Gestión para Red Sísmica](https://github.com/franarteta/red-sismica)** | Uso de patrones de diseño (Strategy, State) para reglas de negocio complejas. | `Java` ` Interfaz Swing/AWT` `persistencia de datos vía JDBC/SQL` |
 
